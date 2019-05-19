@@ -35,10 +35,8 @@
 
     function exerciseDog(dogName, dogBreed){
       const arrayOFunctions = routine.map(dogAction => dogAction(dogName, dogBreed));
-      return arrayOFunctions();
+      return arrayOFunctions
     };
-
-    // function arrayOFunctions(){}
 
     // console.log("Wake Byron the poodle");
     // console.log("Leash Byron the poodle");
