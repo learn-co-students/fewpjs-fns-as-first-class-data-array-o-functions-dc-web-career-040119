@@ -38,9 +38,7 @@
       return arrayOFunctions();
     };
 
-    function arrayOFunctions(){
-      console.log("I am working!")
-    }
+    // function arrayOFunctions(){}
 
     // console.log("Wake Byron the poodle");
     // console.log("Leash Byron the poodle");
